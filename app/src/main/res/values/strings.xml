@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">2048</string>
+
+    <string name="high_score">Điểm cao</string>
+    <string name="score">Điểm</string>
+    <string name="you_win">Bạn đã thắng!</string>
+    <string name="game_over">Kết thúc!</string>
+    <string name="go_on">Nhấn để tiếp tục</string>
+    <string name="for_now">Cho bây giờ</string>
+    <string name="endless">Chế độ "vô hạn"</string>
+
+    <!-- Confirmation dialog-->
+    <string name="reset">Đồng ý</string>
+    <string name="continue_game">Hủy</string>
+    <string name="reset_dialog_title">Chơi ván mới!</string>
+    <string name="reset_dialog_message">Bạn có chắc muốn chơi ván mới?\nDữ liệu ván cũ sẽ không được lưu!</string>
+
+    <string name="GOTO_MENU">Trở về menu</string>
+    <string name="are_you_sure">Bạn chắc chắn?</string>
+</resources>

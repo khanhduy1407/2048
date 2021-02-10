@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background_control" format="color" />
+    <attr name="background_box_game" format="color" />
+    <attr name="background_cell" format="color" />
+    <attr name="cell_2" format="color" />
+    <attr name="cell_4" format="color" />
+    <attr name="cell_8" format="color" />
+    <attr name="cell_16" format="color" />
+    <attr name="cell_32" format="color" />
+    <attr name="cell_64" format="color" />
+    <attr name="cell_128" format="color" />
+    <attr name="cell_256" format="color" />
+    <attr name="cell_512" format="color" />
+    <attr name="cell_1024" format="color" />
+    <attr name="cell_2048" format="color" />
+</resources>
